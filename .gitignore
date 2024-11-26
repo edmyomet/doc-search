@@ -1,0 +1,7 @@
+#ignoring python virtual environment files 
+
+venv/
+
+#ignoring the document pdf files 
+
+documents/
